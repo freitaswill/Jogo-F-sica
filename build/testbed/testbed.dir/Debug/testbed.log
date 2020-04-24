@@ -1,0 +1,11 @@
+﻿  MyTest.cpp
+MyTest.cpp(99): warning C4305: 'argumento': truncamento de 'double' para 'float'
+MyTest.cpp(102): warning C4305: 'argumento': truncamento de 'double' para 'float'
+MyTest.cpp(105): warning C4305: 'argumento': truncamento de 'double' para 'float'
+MyTest.cpp(108): warning C4305: 'argumento': truncamento de 'double' para 'float'
+MyTest.cpp(174): warning C4305: 'argumento': truncamento de 'double' para 'float'
+MyTest.cpp(180): warning C4305: 'argumento': truncamento de 'double' para 'float'
+MyTest.cpp(185): warning C4305: 'argumento': truncamento de 'double' para 'float'
+MyTest.cpp(185): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+MyTest.cpp(189): warning C4305: 'argumento': truncamento de 'double' para 'float'
+  testbed.vcxproj -> C:\Users\Willian\Documents\box2d-master\build\testbed\Debug\testbed.exe
