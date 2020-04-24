@@ -1,0 +1,2 @@
+Os exercícios estão todos na classe MyTest, o código está comentado indicando a qual exercício cada
+parte do código se refere. Alguns códigos precisam ser descomentados. :D
